@@ -11,7 +11,7 @@ Este script em Python tem como objetivo analisar arquivos `.pcap` (MPEG Transpor
 
 ## 📁 Estrutura esperada
 
-O script espera arquivos `.pcap` válidos, com pacotes de **188 bytes**. Pode ser usado diretamente com arquivos gerados por ferramentas como `tcpdump`, `tsudpsend`, `tsloop`, etc.
+O script espera arquivos `.pcap` válidos, com pacotes MPEG-TS de **188 bytes**. Pode ser usado diretamente com arquivos gerados por ferramentas como `tcpdump`, `tsudpsend`, `tsloop`, etc.
 
 ## 🧪 Requisitos
 
